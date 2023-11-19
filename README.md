@@ -21,23 +21,23 @@ Project consists of recreating te classic snake game with Pygame
 
 <p align="center">
 Main Screen: <br/>
-<img src="https://imgur.com/a/eVL3yNR" height="80%" width="80%" alt="Music Player Demo"/>
+<img src="https://imgur.com/a/eVL3yNR" height="80%" width="80%" alt="Game Main Screen"/>
 <br />
 <br />
 Main Screen Code: <br/>
-<img src="https://imgur.com/B2Gbghq" height="80%" width="80%" alt="Music Player Demo"/>
+<img src="https://imgur.com/B2Gbghq" height="80%" width="80%" alt="Game Main Screen Code"/>
 <br />
 <br />
 Game Screen: <br/>
-<img src="https://imgur.com/8mCeMLe" height="80%" width="80%" alt="Music Player Demo"/>
+<img src="https://imgur.com/8mCeMLe" height="80%" width="80%" alt="Active Game Screen"/>
 <br />
 <br />
 Game Over Screen: <br/>
-<img src="https://imgur.com/whf1POx" height="80%" width="80%" alt="Music Player Demo"/>
+<img src="https://imgur.com/whf1POx" height="80%" width="80%" alt="Game Over Screen"/>
 <br />
 <br />
 Score Counter Code:  <br/>
-<img src="https://imgur.com/QcloYfp" height="80%" width="80%" alt="Music Player Demo"/>
+<img src="https://imgur.com/QcloYfp" height="80%" width="80%" alt="Score Counter"/>
 <br />
 <br />
 
