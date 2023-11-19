@@ -21,7 +21,7 @@ Project consists of recreating te classic snake game with Pygame
 
 <p align="center">
 Main Screen: <br/>
-<img src="https://imgur.com/a/RZNycVF" height="80%" width="80%" alt="Game Main Screen"/>
+<img src="https://imgur.com/GZBKQZv" height="80%" width="80%" alt="Game Main Screen"/>
 <br />
 <br />
 Main Screen Code: <br/>
